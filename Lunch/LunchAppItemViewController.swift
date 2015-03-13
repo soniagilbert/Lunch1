@@ -43,6 +43,7 @@ class LunchAppItemViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        self.title = "Add Ingredients"
 
         // Do any additional setup after loading the view.
     }
